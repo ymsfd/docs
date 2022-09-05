@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ymsfd.github.io/watermelon/pt-br/authors/</loc>
+    <loc>http://ymsfd.github.io/pt-br/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ymsfd.github.io/watermelon/authors/"
+                href="http://ymsfd.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://ymsfd.github.io/watermelon/pt-br/authors/"
+                href="http://ymsfd.github.io/pt-br/authors/"
                 />
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/pt-br/categories/</loc>
+    <loc>http://ymsfd.github.io/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ymsfd.github.io/watermelon/categories/"
+                href="http://ymsfd.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://ymsfd.github.io/watermelon/pt-br/categories/"
+                href="http://ymsfd.github.io/pt-br/categories/"
                 />
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/pt-br/series/</loc>
+    <loc>http://ymsfd.github.io/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ymsfd.github.io/watermelon/series/"
+                href="http://ymsfd.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://ymsfd.github.io/watermelon/pt-br/series/"
+                href="http://ymsfd.github.io/pt-br/series/"
                 />
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/pt-br/tags/</loc>
+    <loc>http://ymsfd.github.io/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ymsfd.github.io/watermelon/tags/"
+                href="http://ymsfd.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://ymsfd.github.io/watermelon/pt-br/tags/"
+                href="http://ymsfd.github.io/pt-br/tags/"
                 />
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/pt-br/</loc>
+    <loc>http://ymsfd.github.io/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ymsfd.github.io/watermelon/"
+                href="http://ymsfd.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://ymsfd.github.io/watermelon/pt-br/"
+                href="http://ymsfd.github.io/pt-br/"
                 />
   </url>
 </urlset>

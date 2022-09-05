@@ -2,113 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ymsfd.github.io/watermelon/posts/</loc>
+    <loc>http://ymsfd.github.io/posts/</loc>
     <lastmod>2022-09-05T17:28:52+02:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/whathaveidonetoday/</loc>
+    <loc>http://ymsfd.github.io/posts/whathaveidonetoday/</loc>
     <lastmod>2022-09-05T17:28:52+02:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/</loc>
+    <loc>http://ymsfd.github.io/</loc>
     <lastmod>2022-09-05T17:28:52+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://ymsfd.github.io/watermelon/pt-br/"
+                href="http://ymsfd.github.io/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ymsfd.github.io/watermelon/"
+                href="http://ymsfd.github.io/"
                 />
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/endof27/</loc>
+    <loc>http://ymsfd.github.io/posts/endof27/</loc>
     <lastmod>2022-09-05T16:08:15+02:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/helloagain/</loc>
+    <loc>http://ymsfd.github.io/posts/helloagain/</loc>
     <lastmod>2022-09-05T14:28:08+02:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/pytorch-seq2seq-model-with-attention/</loc>
+    <loc>http://ymsfd.github.io/posts/pytorch-seq2seq-model-with-attention/</loc>
     <lastmod>2021-03-16T14:21:01+01:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/topics/</loc>
+    <loc>http://ymsfd.github.io/posts/topics/</loc>
     <lastmod>2021-03-15T10:36:36+01:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/building-personal-blog-using-hugo-and-githubpages/</loc>
+    <loc>http://ymsfd.github.io/posts/building-personal-blog-using-hugo-and-githubpages/</loc>
     <lastmod>2021-03-15T10:26:27+01:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/setup-ssh-keys-for-multiple-github-accounts/</loc>
+    <loc>http://ymsfd.github.io/posts/setup-ssh-keys-for-multiple-github-accounts/</loc>
     <lastmod>2021-03-15T10:22:54+01:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/text-similarity/</loc>
+    <loc>http://ymsfd.github.io/posts/text-similarity/</loc>
     <lastmod>2021-03-12T18:16:59+01:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/willpower/</loc>
+    <loc>http://ymsfd.github.io/posts/willpower/</loc>
     <lastmod>2021-03-12T15:42:08+01:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/dimension-error/</loc>
+    <loc>http://ymsfd.github.io/posts/dimension-error/</loc>
     <lastmod>2021-01-31T17:34:28+01:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/posts/urgently-need-output/</loc>
+    <loc>http://ymsfd.github.io/posts/urgently-need-output/</loc>
     <lastmod>2021-01-31T16:19:29+01:00</lastmod>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/about/</loc>
+    <loc>http://ymsfd.github.io/about/</loc>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/authors/</loc>
+    <loc>http://ymsfd.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://ymsfd.github.io/watermelon/pt-br/authors/"
+                href="http://ymsfd.github.io/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ymsfd.github.io/watermelon/authors/"
+                href="http://ymsfd.github.io/authors/"
                 />
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/categories/</loc>
+    <loc>http://ymsfd.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://ymsfd.github.io/watermelon/pt-br/categories/"
+                href="http://ymsfd.github.io/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ymsfd.github.io/watermelon/categories/"
+                href="http://ymsfd.github.io/categories/"
                 />
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/contact/</loc>
+    <loc>http://ymsfd.github.io/contact/</loc>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/snippets/first/</loc>
+    <loc>http://ymsfd.github.io/snippets/first/</loc>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/projects/</loc>
+    <loc>http://ymsfd.github.io/projects/</loc>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/snippets/second/</loc>
+    <loc>http://ymsfd.github.io/snippets/second/</loc>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/series/</loc>
+    <loc>http://ymsfd.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://ymsfd.github.io/watermelon/pt-br/series/"
+                href="http://ymsfd.github.io/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ymsfd.github.io/watermelon/series/"
+                href="http://ymsfd.github.io/series/"
                 />
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/snippets/</loc>
+    <loc>http://ymsfd.github.io/snippets/</loc>
   </url><url>
-    <loc>http://ymsfd.github.io/watermelon/tags/</loc>
+    <loc>http://ymsfd.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://ymsfd.github.io/watermelon/pt-br/tags/"
+                href="http://ymsfd.github.io/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ymsfd.github.io/watermelon/tags/"
+                href="http://ymsfd.github.io/tags/"
                 />
   </url>
 </urlset>
