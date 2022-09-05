@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ymsfd</title>
+    <link>http://ymsfd.github.io/watermelon/</link>
+    <description>Recent content on ymsfd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Sep 2022 17:28:52 +0200</lastBuildDate><atom:link href="http://ymsfd.github.io/watermelon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Have I done today</title>
+      <link>http://ymsfd.github.io/watermelon/posts/whathaveidonetoday/</link>
+      <pubDate>Mon, 05 Sep 2022 17:28:52 +0200</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/whathaveidonetoday/</guid>
+      <description> Install yarn/npm and deploy blast Install anaconda and config env Config multiple github account with ssh Followed along create https certificate Finally installed pinyin input for kubuntu! 好不容易：） Set up mendeley for paper reference management  </description>
+    </item>
+    
+    <item>
+      <title>End of 27</title>
+      <link>http://ymsfd.github.io/watermelon/posts/endof27/</link>
+      <pubDate>Mon, 05 Sep 2022 16:08:15 +0200</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/endof27/</guid>
+      <description>Today is the third last day of my 27. Frankly I had a very disappinting year of being 27, surviving more than living. Barely think, barely learn, take things for granted, day after day of lossing control of my life.
+I am glad it is almost done, 28 will be different, I promise.</description>
+    </item>
+    
+    <item>
+      <title>Hello again, after disapper for more than one year</title>
+      <link>http://ymsfd.github.io/watermelon/posts/helloagain/</link>
+      <pubDate>Mon, 05 Sep 2022 14:28:08 +0200</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/helloagain/</guid>
+      <description>I am back. So hello again.</description>
+    </item>
+    
+    <item>
+      <title>PyTorch Seq2Seq model with attention understanding layer from from </title>
+      <link>http://ymsfd.github.io/watermelon/posts/pytorch-seq2seq-model-with-attention/</link>
+      <pubDate>Tue, 16 Mar 2021 14:21:01 +0100</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/pytorch-seq2seq-model-with-attention/</guid>
+      <description>Sequence to sequence model can solve a lot of NLP problems in an end-to-end manner. For example, machine translation</description>
+    </item>
+    
+    <item>
+      <title>List of topics</title>
+      <link>http://ymsfd.github.io/watermelon/posts/topics/</link>
+      <pubDate>Mon, 15 Mar 2021 10:36:36 +0100</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/topics/</guid>
+      <description>Here I list the topics I plan to work on in the near future.
+ install/update ubuntu system Git frequent commands, a cheatsheet for self quick check Wordpress encountered problems and solutions install wordpress in a docker environment comment function in hugo site python regular expression cheatsheet for frequent usage Jetson nano install anaconda/packages Pytorch seqquence to sequence model understanding in code  </description>
+    </item>
+    
+    <item>
+      <title>Building personal blog site using hugo and GitHubPages</title>
+      <link>http://ymsfd.github.io/watermelon/posts/building-personal-blog-using-hugo-and-githubpages/</link>
+      <pubDate>Mon, 15 Mar 2021 10:26:27 +0100</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/building-personal-blog-using-hugo-and-githubpages/</guid>
+      <description>As a newbie to web frontend knowledge, I want to use the minimum effort to build a working blog to records study output. Thus Hugo plus GitHubPages are the first choice for me to go.
+ OS: Ubuntu 20.10 hugo version: v0.74.3  install hugo in ubuntu    test hugo locally    host on GitHubPages    customize config file/page layout    update new posts    </description>
+    </item>
+    
+    <item>
+      <title>Set SSH keys for multiple GitHub accounts</title>
+      <link>http://ymsfd.github.io/watermelon/posts/setup-ssh-keys-for-multiple-github-accounts/</link>
+      <pubDate>Mon, 15 Mar 2021 10:22:54 +0100</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/setup-ssh-keys-for-multiple-github-accounts/</guid>
+      <description>The problem of managing multiple GitHub accounts came when I have a personal github account for collecting various study resource or my side projects, and I do not want to use this personal account for working in a GitHub organization. Also, every push with identity and password is quite annoying for me. So I set up different SSH keys to easily manage multiple accounts.
+step 1: go to .ssh folder and generate ssh keys for all your github accounts    cd ~/.</description>
+    </item>
+    
+    <item>
+      <title>Compare text similarity</title>
+      <link>http://ymsfd.github.io/watermelon/posts/text-similarity/</link>
+      <pubDate>Fri, 12 Mar 2021 18:16:59 +0100</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/text-similarity/</guid>
+      <description>Textual similarity calculation is an important NLP tasks with a lot of application, for example, search engine, question answering system. Generally this tasks can be decomposed into three subtasks:
+ Text cleaning Vector representation Distance metrics  Text Cleaning    Text cleaning typically includes:
+ lower case all words reomve special symbols (remove digit) remove stopwords (customize stopwords) stemming/lemme &amp;hellip;  import re import nltk from nltk.corpus import stopwords def clean(text): lowered = [i.</description>
+    </item>
+    
+    <item>
+      <title>willpower against pressure</title>
+      <link>http://ymsfd.github.io/watermelon/posts/willpower/</link>
+      <pubDate>Fri, 12 Mar 2021 15:42:08 +0100</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/willpower/</guid>
+      <description>Willpower and pressure are enemy. I am afraid of things to comes in the future, and I tend to over-worry about the consequences brought by a tiny bit case. I guess I am one part of the so-called HSP group. I do have a strong willpower, at least I had it before, otherwise I could not make the multiple marathons in the past. But where are they now? I am burried in the invisible pressure day by day, night by night.</description>
+    </item>
+    
+    <item>
+      <title>Dimension varying when loading pretrained model</title>
+      <link>http://ymsfd.github.io/watermelon/posts/dimension-error/</link>
+      <pubDate>Sun, 31 Jan 2021 17:34:28 +0100</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/dimension-error/</guid>
+      <description> seq2seq model, load data with torchtext Field, TabularData.. when loading the saved model got the error of varying dimension inside of layer. The total vocabulary size is changing everytime by loading. stuck reason: thought it is the model problem or data been randomly shufftled when loading real problem: data is saved in .csv file, and inside of data there are also commas, therefore, the data is incorrectly read.  </description>
+    </item>
+    
+    <item>
+      <title>more thinking and writing</title>
+      <link>http://ymsfd.github.io/watermelon/posts/urgently-need-output/</link>
+      <pubDate>Sun, 31 Jan 2021 16:19:29 +0100</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/posts/urgently-need-output/</guid>
+      <description>I realized I could not write anymore, I read too much and too fast that I did not leave time for thinking. This is a disaster for my brain, and for my till now still not finished report which supposed to be finished one year ago. Because I forgot how to write, how to output thoughts, and the longer the delay, the more my brain refuse to think, refuse to start from any single tiny step.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://ymsfd.github.io/watermelon/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/about/</guid>
+      <description>I am a naive student who has three minutes passion on everything. But I want to/will be an expert in computer science, with focus on machine learning and natural language processing. The reason I started this blog is encourage myself to output more often rather than always and only take inputs from others, to be a person that still able to think in the currnt time.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://ymsfd.github.io/watermelon/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/contact/</guid>
+      <description>leave a message here:</description>
+    </item>
+    
+    <item>
+      <title>First snippet</title>
+      <link>http://ymsfd.github.io/watermelon/snippets/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/snippets/first/</guid>
+      <description>This content is in snippets/first/index.md
+pwd </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://ymsfd.github.io/watermelon/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>Second snippet</title>
+      <link>http://ymsfd.github.io/watermelon/snippets/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ymsfd.github.io/watermelon/snippets/second/</guid>
+      <description>This content is in snippets/second/index.md
+ls -la </description>
+    </item>
+    
+  </channel>
+</rss>
